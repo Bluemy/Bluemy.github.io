@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 792 612" style="enable-background:new 0 0 792 612;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#EDA899;}
+	.st1{fill:#FEF4E5;}
+	.st2{fill:#503557;}
+	.st3{fill:#89758A;}
+	.st4{fill:#F4C0B7;}
+</style>
+<g id="_x32_rd_floor">
+</g>
+<g id="_x31_st_floor">
+	<g>
+		<polygon class="st0" points="247.8,431.56 283.71,446.36 284.32,436.85 247.8,422.27 		"/>
+		<polygon class="st0" points="261.67,416.88 247.8,422.26 284.32,436.83 297.79,430.88 		"/>
+	</g>
+	<g>
+		<polygon class="st0" points="233.93,446.25 269.84,461.05 270.45,451.53 233.93,436.96 		"/>
+		<polygon class="st0" points="247.8,431.56 233.93,436.94 270.45,451.52 283.92,445.57 		"/>
+	</g>
+	<g>
+		<polygon class="st0" points="220.46,460.99 256.37,475.79 256.98,466.27 220.46,451.7 		"/>
+		<polygon class="st0" points="234.33,446.31 220.46,451.68 256.98,466.26 270.45,460.31 		"/>
+	</g>
+</g>
+<g id="图层_9">
+	<polygon class="st1" points="256.98,475.79 256.98,466.27 269.84,461.05 270.45,451.53 283.71,446.36 284.32,436.83 296.25,431.56 
+		296.25,475.79 	"/>
+</g>
+<g id="图层_1">
+	<polygon class="st2" points="456.7,136.33 395.52,291.18 211.99,224.82 	"/>
+	<polygon class="st3" points="640.23,202.69 395.52,291.18 456.7,136.33 	"/>
+</g>
+<g id="图层_4">
+</g>
+<g id="图层_2">
+	<polygon class="st0" points="211.99,224.82 211.99,401.8 395.52,468.16 395.52,291.18 	"/>
+	<polygon class="st4" points="315.48,293.38 338.18,299.47 338.18,348.12 315.48,342.03 	"/>
+	<polygon class="st4" points="354.82,308.06 377.52,314.15 377.52,362.8 354.82,356.71 	"/>
+	<line class="st4" x1="211.99" y1="235.73" x2="395" y2="303"/>
+</g>
+<g id="图层_5">
+	<path class="st4" d="M299.37,434.84V378.9c-14.12-17.13-32.96-6.11-32.96-6.11v48.6"/>
+</g>
+<g id="图层_7">
+</g>
+<g id="图层_3">
+	<polygon class="st4" points="395.52,468.16 640.23,377.06 640.23,202.69 395.52,291.18 	"/>
+	<polygon class="st4" points="235.45,266.48 258.14,272.57 258.14,321.22 235.45,315.13 	"/>
+	<polygon class="st4" points="273.67,280.68 296.37,286.77 296.37,335.43 273.67,329.34 	"/>
+</g>
+</svg>

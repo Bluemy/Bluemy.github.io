@@ -1,0 +1,189 @@
+/*import fonts from googlefonts*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+
+/*navigation*/
+.navbar-light .navbar-brand{
+	font-size: 25px;
+	text-transform:uppercase;
+	letter-spacing:1px;
+	color:#88BBD6;
+}
+.navbar-light{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	
+}
+.navbar .btn{
+	background-color: #88BBD6;
+	border:none;
+	font-family: 'Montserrat', sans-serif;
+}
+/*End navigation*/
+
+
+/*carousel*/
+.carousel-item{
+	height:100vh;
+	min-height:300px;
+	background: no-repeat center center scroll;
+	background-size: cover;
+}
+
+.carousel-caption{
+	margin-bottom:100px;
+}
+
+.carousel-caption h5{
+	font-size: 40px;
+	text-transform: uppercase;
+	letter-spacing:2px;
+	margin-top: 25px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.carousel-caption p{
+	width: 100%;
+	font-size:20px;
+	font-family: 'Montserrat', sans-serif;
+}
+/*End carousel*/
+
+/*paragraph*/
+.paragraph{
+	line-height: 2;
+	font-family: 'Montserrat', sans-serif;
+
+}
+/*End paragraph*/
+
+/*button*/
+.button{
+	padding:.5rem 2rem;
+	font-family: 'Montserrat', sans-serif;
+	position:relative;
+	bordor: 2px solid transparent;
+	border-radius:4px;
+	background-color:#88BBD6;
+}
+
+.button.primary-button{
+	background-color:#88BBD6;
+	color:#fff;
+	background-clip:padding-box;
+}
+
+.button.primary-button:hover{
+	background:#D5C9CF;
+	background-clip:padding-box;
+}
+
+.button.secondary-button{
+	background-color:#B6CBD6;
+	color:#fff;
+	background-clip:padding-box;
+}
+
+.button.secondary-button:hover{
+	background:#D5C9CF;
+	background-clip:padding-box;
+}
+
+/*footer*/
+.footer{
+	background:#D3DDE3;
+  	bottom: 0;
+  	width: 100%;
+	
+}
+
+h4{
+	padding:15px 0px;
+	font-family:'Montserrat', sans-serif;
+}
+
+.social{
+	padding:0;
+}
+
+.social ul{
+	list-style-type:none;
+}
+
+.social li{
+	display:inline-block;
+	width:35px;
+	height:35px;
+	text-align:center;
+	padding:0;
+}
+
+.social li a i{
+	color:#000;
+	font-size:25px;
+}
+
+.social li a i:hover{
+	color:#88BBD6;
+	text-decoration: none;
+}
+
+.sign .btn{
+	background-color:#88BBD6;
+	color:#fff;
+	background-clip:padding-box;
+}
+
+/*Style image gallery*/
+.image-area .container{
+	margin-top:50px;
+	margin-bottom:50px;
+}
+.image-area .img-fluid{
+	padding:10px 0;
+}
+
+
+/*End style image gallery*/
+
+
+.social-body{
+	padding:0;
+}
+
+.social-body ul{
+	list-style-type:none;
+}
+
+.social-body li{
+	display:inline-block;
+	width:50px;
+	height:50px;
+	padding:0 60px;
+}
+
+.social-body li a i{
+	color:#000;
+	font-size:60px;
+}
+
+.social-body li a i:hover{
+	color:#88BBD6;
+	text-decoration: none;
+}
+
+button .btn .btn-unique{
+	background-color:#88BBD6;
+	color:#fff;
+	background-clip:padding-box;
+}
+
+
+
+
+
+
+
+
+
+

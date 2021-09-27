@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 792 612" style="enable-background:new 0 0 792 612;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F1E2D4;}
+	.st1{fill:#EED2BA;}
+	.st2{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st3{fill:#A4876E;}
+	.st4{fill:#CCCABE;}
+	.st5{fill:#573623;}
+	.st6{opacity:0.65;fill:#8CC4D1;}
+	.st7{fill:url(#SVGID_1_);}
+	.st8{fill:#FFFFFF;}
+	.st9{fill:none;}
+	.st10{fill:#D8D5CF;}
+	.st11{fill:#C0BFBE;}
+	.st12{fill:#8CC4D1;}
+	.st13{fill:#EEBEB4;}
+</style>
+<g id="Room">
+	<path class="st0" d="M510.68,215.43c1.39,0,1.39,0,1.39,0S512.06,215.43,510.68,215.43v188.6h1.39h-1.39
+		C700.6,551.26,700.6,551.26,700.6,551.26l3.82-497.87C704.42,53.38,704.42,53.38,510.68,215.43z"/>
+	<line class="st1" x1="704.42" y1="53.38" x2="700.6" y2="551.26"/>
+	<path class="st0" d="M262.19,404.02h248.48v-188.6c-6.45,0-42.85,0-248.48,0c205.63,0,242.04,0,248.48,0
+		C704.42,53.38,704.42,53.38,704.42,53.38H25.43v497.87H700.6c0,0,0,0-189.92-147.23H262.19z"/>
+	<line class="st1" x1="512.06" y1="404.02" x2="510.68" y2="404.02"/>
+	<path class="st1" d="M510.68,215.43c1.39,0,1.39,0,1.39,0"/>
+	<path class="st1" d="M510.68,215.43c-6.45,0-42.85,0-248.48,0"/>
+	<path class="st2" d="M-186.72,129.4"/>
+	<polyline class="st1" points="700.6,551.26 510.68,404.02 262.19,404.02 25.43,551.26 	"/>
+</g>
+<g id="Door">
+	<polygon class="st3" points="97.9,506.46 97.9,262.86 180.64,276.75 180.64,454.8 	"/>
+	<g id="图层_4">
+		<polygon class="st4" points="123,306 123,348.97 163.45,344.22 163.45,308.69 		"/>
+	</g>
+	<circle class="st5" cx="174.74" cy="372.93" r="3.12"/>
+</g>
+<g id="Windows">
+	<polygon class="st6" points="550.87,224.96 550.87,257.89 550.87,285.47 584.37,294.63 625.94,306 625.94,195.09 588.4,210.02 	"/>
+	<path class="st2" d="M545.7,259.9"/>
+	<radialGradient id="SVGID_1_" cx="369.7234" cy="136.1064" r="189.6044" gradientUnits="userSpaceOnUse">
+		<stop  offset="0.174" style="stop-color:#ACD9EB"/>
+		<stop  offset="0.7743" style="stop-color:#CCE8ED"/>
+	</radialGradient>
+	<polygon class="st7" points="273.09,195.09 108.15,77.13 631.3,77.13 496.49,195.09 	"/>
+	<path class="st2" d="M25.43,53.38"/>
+	<line class="st2" x1="596.61" y1="77.13" x2="497.26" y2="162.91"/>
+	<line class="st8" x1="550.87" y1="257.89" x2="625.94" y2="250.54"/>
+	<line class="st9" x1="-19.54" y1="104.3" x2="-18.48" y2="104.3"/>
+	<line class="st8" x1="588.4" y1="210.02" x2="584.37" y2="294.63"/>
+	<polyline class="st10" points="273.09,195.09 108.15,77.13 154.25,77.13 273.09,162.91 	"/>
+	<path class="st9" d="M273.09,195.09v-32.17V195.09z"/>
+	<polygon class="st11" points="496.49,195.09 497.26,162.91 596.61,77.13 497.26,162.91 496.49,195.09 497.26,162.91 273.09,162.91 
+		273.09,195.09 	"/>
+	<polyline class="st10" points="497.26,162.91 596.61,77.13 631.3,77.13 496.49,195.09 	"/>
+	<line class="st12" x1="154.25" y1="77.13" x2="273.09" y2="162.91"/>
+	<line class="st12" x1="497.26" y1="162.91" x2="273.09" y2="162.91"/>
+	<line class="st12" x1="596.61" y1="77.13" x2="497.26" y2="162.91"/>
+	<line class="st12" x1="154.25" y1="77.13" x2="596.61" y2="77.13"/>
+</g>
+<g id="Rug">
+	<polygon class="st13" points="279.25,421.19 154.25,528.14 596.61,528.14 497.38,421.19 	"/>
+</g>
+<g id="Furniture">
+	<rect x="338.79" y="490.83" class="st5" width="16" height="15.63"/>
+	<rect x="445.34" y="490.83" class="st5" width="16.68" height="15.63"/>
+	<polygon class="st3" points="438.19,425.81 462.02,490.83 338.79,490.83 367.04,425.81 	"/>
+	<line class="st2" x1="354.79" y1="506.46" x2="359.21" y2="490.83"/>
+	<line class="st2" x1="441.63" y1="490.83" x2="445.34" y2="506.46"/>
+	<rect x="231.55" y="446.23" class="st5" width="30.64" height="30.98"/>
+	<polygon class="st3" points="260.83,425.81 231.55,446.23 262.19,446.23 283.98,425.81 	"/>
+	<polygon class="st5" points="283.98,446.23 283.98,425.81 262.19,446.23 	"/>
+	<path class="st2" d="M309.51,297.47"/>
+</g>
+</svg>
